@@ -25,6 +25,7 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Specilization__c</field>
+                
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
